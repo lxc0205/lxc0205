@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lxc0205
-- 📫 How to reach me:lxc0205@mail.nwpu.edu.cn
+- 📫 How to reach me: lxc0205@mail.nwpu.edu.cn
 
 <!---
 lxc0205/lxc0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
